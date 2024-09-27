@@ -1,6 +1,6 @@
 CC = gcc
 CFLAGS = -Wall -g -I./include
-OBJ = main.o hello.o
+OBJ = main.o hello.o strfun.o
 NAME = learncinoneday
 OUTPUT = build
 
